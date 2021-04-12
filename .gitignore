@@ -1,0 +1,5 @@
+# Common .gitignore files.
+/node_modules
+
+# Arguably, this is not needed.
+package-lock.json
